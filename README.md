@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hugo Neves or @MusgoNato
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C, Javascript, PHP, HTML and CSS 
+- 🌱 I’m currently learning C, Python, PHP, HTML and CSS 
 - 📫 Look for me on Instagram like hugo.neves04
 - ⚡ Fun fact: I'am human
