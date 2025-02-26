@@ -1,10 +1,8 @@
 ## Olá, meu nome é {Hugo Josué Lema Das Neves}!
 
+[![card](https://github-readme-stats.vercel.app/api?username=MusgoNato&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <table>
   <tr>
-    <td>
-      <img align='left' src="https://github-readme-stats.vercel.app/api?username=MusgoNato&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
-    </td>
     <td>
       <img
         align="left"
