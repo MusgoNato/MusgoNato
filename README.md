@@ -1,6 +1,6 @@
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Welcome!"/>
 
-<p align="center">Hi! My name is Hugo, I'm a web developer and data enthusiast. I have experience with technologies like PHP, JavaScript, HTML, CSS, and Python. I'm currently deepening my knowledge in Godot and Docker. I enjoy building practical solutions, learning new things, and turning ideas into code. Welcome to my profile!</p>
+<p align="center">Hi! My name is Hugo, I'm a web developer and data enthusiast. I have experience with technologies like PHP, Laravel and Python. I'm currently deepening my knowledge in Godot and Docker. I enjoy building practical solutions, learning new things, and turning ideas into code. Welcome to my profile!</p>
 
 <div align="center"><img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=MusgoNato&show_icons=true&theme=radical&layout=compact" />
 </div>
